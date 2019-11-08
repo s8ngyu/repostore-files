@@ -1,0 +1,40 @@
+[
+    {
+        "class":"FromTheEditors",
+        "title":"REPO STORE",
+        "subtitle":"Welcome to the\nRepo Store!",
+        "img":"https://peterprd.github.io/repostore-files/repostore/img1.png"
+    },
+    {
+        "class":"RSTrending",
+        "title":"TRENDING",
+        "subtitle":"Try some nice tweaks",
+        "url":"https://patrick-knauf.github.io/repo/",
+        "url1":"https://repo.pixelomer.com/",
+        "url2":"https://www.yourepo.com/",
+        "url3":"https://getdelta.co/",
+        "url4":"https://repo.twickd.com/"
+    },
+    {
+        "class":"RepoOfTheMonth",
+        "url":"https://repo.packix.com/",
+        "title":"REPO\nOF THE\nMONTH",
+        "img":"https://peterprd.github.io/repostore-files/repostore/img0.png"
+    },
+    {
+        "class":"WorldPremiere",
+        "title":"FEATURED REPO",
+        "url":"https://peterprd.github.io/repostore-files",
+        "img":"https://peterprd.github.io/repostore-files/repostore/img2.png"
+    },
+    {
+        "class":"RSTrending",
+        "title":"POPULAR",
+        "subtitle":"Get the best tweaks",
+        "url":"https://repo.dynastic.co/",
+        "url1":"https://repo.nepeta.me/",
+        "url2":"https://repo.packix.com/",
+        "url3":"https://repo.chariz.io/",
+        "url4":"https://peterprd.github.io/repostore-files/"
+    }
+]
